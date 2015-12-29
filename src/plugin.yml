@@ -1,0 +1,7 @@
+name: Particles
+author: WTX
+version: 1.0
+main: me.wtx.particles.Invoke
+description: A plugin to display particles around yourself
+commands:
+  particles:
